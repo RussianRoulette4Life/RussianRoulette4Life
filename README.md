@@ -1,6 +1,8 @@
+# what is this
 - 👋 Hi, I’m @RussianRoulette4Life
-- 👀 I’m interested in software development / webpage development
-- 🌱 I’m currently learning basics of rust, planning on learning java (i cannot pass up on jobs, cmon. rust fun, java make money. simple)
+- 👀 I’m interested in software development / web development / Linuxe (spelt like that)
+- 🌱 I’m currently learning basics of rust, planning on learning java (i cannot pass up on jobs, cmon. rust fun, java make money. simple) (or not i am not knowledgeable enough)
+
 
 
 <!---
