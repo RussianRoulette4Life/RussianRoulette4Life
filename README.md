@@ -1,7 +1,7 @@
 # what is this
 - 👋 Hi, I’m @RussianRoulette4Life
-- 👀 I’m interested in software development / web development / Linux
-- 🌱 I’m currently learning basics of rust, planning on learning java (i cannot pass up on jobs, cmon. rust fun, java make money. simple) (or not i am not knowledgeable enough)
+- 👀 I am THE thing of the past
+- 🌱 robotics
 
 
 
